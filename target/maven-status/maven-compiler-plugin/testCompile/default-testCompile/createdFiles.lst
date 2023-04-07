@@ -1,0 +1,10 @@
+com\demo\pages\AppTest.class
+OrderFlow.class
+com\demo\pages\SignupPage.class
+ProfileFlow.class
+com\demo\data\CredentialData.class
+CartFlow.class
+com\demo\pages\CartPage.class
+com\demo\pages\OrderPage.class
+com\demo\pages\ProfilePage.class
+BaseTest.class

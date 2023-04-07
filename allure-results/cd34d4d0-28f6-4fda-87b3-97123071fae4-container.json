@@ -1,0 +1,1 @@
+{"uuid":"cd34d4d0-28f6-4fda-87b3-97123071fae4","name":"E-commerce Application","children":["d47a62ef-14c1-4aa6-8b1d-cf9267129d40"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1678204670313,"stop":1678204672578}],"afters":[],"start":1678204670292,"stop":1678204675726}

@@ -1,0 +1,1 @@
+{"uuid":"6958c331-ecbb-49c2-9e5d-4fbb3e612246","name":"Web Automation","children":["e61b2e30-20a3-47ee-92a8-63a13d32676d"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1677833593279,"stop":1677833595311}],"afters":[],"start":1677833593260,"stop":1677833598760}

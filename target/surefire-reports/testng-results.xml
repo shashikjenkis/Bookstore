@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-07T21:47:45 IST" name="Web Automation" finished-at="2023-03-07T21:48:05 IST" duration-ms="19792">
+    <groups>
+    </groups>
+    <test started-at="2023-03-07T21:47:45 IST" name="E-commerce Application" finished-at="2023-03-07T21:48:05 IST" duration-ms="19792">
+      <class name="OrderFlow">
+        <test-method signature="endtoendFlow()[pri:0, instance:OrderFlow@2d6c53fc]" started-at="2023-03-07T21:47:48 IST" name="endtoendFlow" description="lanuch the application" finished-at="2023-03-07T21:48:05 IST" duration-ms="16638" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endtoendFlow -->
+      </class> <!-- OrderFlow -->
+      <class name="BaseTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:BaseTest@48793bef]" started-at="2023-03-07T21:47:45 IST" name="setUp" finished-at="2023-03-07T21:47:48 IST" duration-ms="2942" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+      </class> <!-- BaseTest -->
+    </test> <!-- E-commerce Application -->
+  </suite> <!-- Web Automation -->
+</testng-results>
