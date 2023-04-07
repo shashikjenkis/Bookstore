@@ -3,7 +3,7 @@
 <suite name="Web Automation">
   <test thread-count="5"  name="E-commerce Application">
  <classes>
- <class name="BaseTest"/>
+ 
  <class name="OrderFlow"/>
  </classes>
  </test>
